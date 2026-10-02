@@ -2,7 +2,7 @@
     background-color: rgb(72, 132, 221);
     color: rgb(255, 255, 255);
 }
-.padding{
+.padding1{
     text-align: justify;
     padding: 50px;
 }
@@ -15,12 +15,12 @@
 .blue-text{
     color: rgb(72, 132, 221);
 }
-.margin{
+.margin1{
     margin-top: 50px;
     margin-bottom: 50px;
 }
 .width{
-    width:80%
+    width: 75%
 }
 p{
     height: 24px
