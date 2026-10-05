@@ -2,9 +2,9 @@
     background-color: rgb(72, 132, 221);
     color: rgb(255, 255, 255);
 }
-.padding1{
+.padding{
     text-align: justify;
-    padding: 50px;
+    padding: 10px;
 }
 .background{
     background-color:rgb(72, 132, 221)
@@ -15,9 +15,9 @@
 .blue-text{
     color: rgb(72, 132, 221);
 }
-.margin1{
-    margin-top: 50px;
-    margin-bottom: 50px;
+.margin{
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .width{
     width: 75%
